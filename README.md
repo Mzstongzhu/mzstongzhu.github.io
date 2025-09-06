@@ -7,4 +7,4 @@ build with [Github pages](http://pages.github.com)
 
 
 
-[联系我们](mailtomakazs@makazs.cn)
+[联系我们](mailto:makazs@makazs.cn)
